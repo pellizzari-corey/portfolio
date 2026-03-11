@@ -272,3 +272,34 @@ img {
     flex-direction: column;
   }
 }
+
+/* Temporary  */
+.splash {
+  text-align: center;
+}
+
+.splash-panel {
+  margin-top: 2rem;
+}
+
+.splash-text {
+  font-size: 1.05rem;
+}
+
+.splash-text + .splash-text {
+  margin-top: 0.85rem;
+}
+
+.muted {
+  color: #9fb0c3;
+}
+
+.splash .hero-actions {
+  justify-content: center;
+}
+
+.splash-footer {
+  margin-top: 1.5rem;
+  color: #8fa3b8;
+  font-size: 0.95rem;
+}
