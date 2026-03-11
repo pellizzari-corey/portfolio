@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- hexagon background -->
+  <polygon points="32,4 56,18 56,46 32,60 8,46 8,18" fill="#223457"></polygon>
+
+  <!-- hexagon border -->
+  <polygon points="32,4 56,18 56,46 32,60 8,46 8,18" fill="none" stroke="#e6e8ec" stroke-width="3"></polygon>
+
+  <!-- letter C -->
+  <path d="M41 22
+       Q35 16 26 20
+       Q18 24 18 32
+       Q18 40 26 44
+       Q35 48 41 42" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"></path>
+
+</svg>
